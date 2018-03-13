@@ -1,4 +1,4 @@
-### Colors
+# Colors
 ```
 #include <Adafruit_NeoPixel.h>
 
@@ -15,7 +15,7 @@ void loop() {
 }
 ```
 
-### Blink
+# Blink
 
 ```
 #include <Adafruit_NeoPixel.h>
@@ -37,7 +37,7 @@ void loop() {
 }
 ```
 
-### Multicolor Blink
+# Multicolor Blink
 ```
 #include <Adafruit_NeoPixel.h>
 
@@ -58,7 +58,7 @@ void loop() {
 }
 ```
 
-### Switch
+# Switch
 ```
 #include <Adafruit_NeoPixel.h>
 
@@ -81,7 +81,7 @@ void loop() {
 }
 ```
 
-### Multicolor Switch
+# Multicolor Switch
 
 ```
 #include <Adafruit_NeoPixel.h>
