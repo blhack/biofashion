@@ -167,7 +167,7 @@ void loop() {
 
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(10, 12, NEO_GRB + NEO_KHZ800);
 
-int speed;
+int speed = 100;
 
 void setup() {
   pinMode(10, INPUT_PULLUP);
