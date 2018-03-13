@@ -1,4 +1,4 @@
-###Colors
+### Colors
 ```
 #include <Adafruit_NeoPixel.h>
 
