@@ -1,3 +1,5 @@
+https://adafruit.github.io/arduino-board-index/package_adafruit_index.json 
+
 ### Colors
 ```
 #include <Adafruit_NeoPixel.h>
