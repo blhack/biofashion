@@ -212,3 +212,25 @@ void loop() {
 
 }
 ```
+
+# Tone
+
+```
+void setup() {
+}
+
+void loop() {
+  tone(6, 5000, 500);
+  delay(500);
+  tone(6, 4000, 500);
+  delay(500);
+  tone(6, 3000, 500);
+  
+  tone(6, 2000, 500);
+  delay(500);
+  tone(6, 1000, 500);
+  delay(500);
+  tone(6, 500, 500);
+  delay(500);
+}
+```
